@@ -1,3 +1,8 @@
+% Janabi-Sharifi, F.; Hayward, V.; Chen, C.-S.J., 
+% Discrete-time adaptive windowing for velocity estimation, 
+% IEEE Transactions on Control Systems Technology
+% vol.8, no.6, pp.1003-1009, Nov 2000
+
 function v_est = foaw_diff(y, Ts, m, d)
 
 slope = 0;                                  % estimate
